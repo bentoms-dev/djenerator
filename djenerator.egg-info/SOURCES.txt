@@ -1,0 +1,10 @@
+README.md
+setup.py
+djenerator/__init__.py
+djenerator/djenerator.py
+djenerator.egg-info/PKG-INFO
+djenerator.egg-info/SOURCES.txt
+djenerator.egg-info/dependency_links.txt
+djenerator.egg-info/entry_points.txt
+djenerator.egg-info/requires.txt
+djenerator.egg-info/top_level.txt
