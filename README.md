@@ -14,7 +14,7 @@ pip install djenerator
 After installing the package, you can use it to generate djent-style MIDI patterns.
 
 ```bash
-generate_djent
+djenerator
 ```
 
 By default, this command will generate a MIDI pattern with a tempo of 160 BPM and save it as DjentPattern.mid in your current directory.
