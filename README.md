@@ -21,10 +21,11 @@ By default, this command will generate a MIDI pattern with a tempo of 160 BPM an
 
 You can also specify optional arguments:
 
---file-name or -f: Specify the base name for the generated MIDI file (default is 'DjentPattern').
---num-measures or -n: Specify the number of measures in the pattern (default is 4).
---tempo-bpm or -t: Specify the tempo in BPM (default is 160).
---note-range or -r: Specify the range of MIDI notes as a tuple (e.g., --note-range 40 52 for notes from 40 to 52).
+- --file-name or -f: Specify the base name for the generated MIDI file (default is 'DjentPattern').
+- --num-measures or -n: Specify the number of measures in the pattern (default is 4).
+- --tempo-bpm or -t: Specify the tempo in BPM (default is 160).
+- --note-range or -r: Specify the range of MIDI notes as a tuple (e.g., --note-range 40 52 for notes from 40 to 52).
+
 Example with optional arguments:
 
 ```bash
